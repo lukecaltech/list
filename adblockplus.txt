@@ -14,7 +14,6 @@
 ||static.doubleclick.net^
 ||ssl.google-analytics.com^
 ||s.innovid.com^
-||captive.g.aaplimg.com^
 ||securepubads.g.doubleclick.net^
 ||secure-ds.serving-sys.com^
 ||s0.2mdn.net^
@@ -9250,3 +9249,4 @@
 ||ad.doubleclick.net^
 ||2mdn.net^
 ||2975c.v.fwmrm.net^
+||captive.g.aaplimg.com^
